@@ -1,0 +1,16 @@
+# ── Secrets — never commit these ──────────────────────────────
+oauth-secret.txt
+**/oauth-secret.txt
+*.pem
+*.key
+
+# ── Firebase CLI local files ──────────────────────────────────
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+*.cache.json
+
+# ── OS junk ───────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
